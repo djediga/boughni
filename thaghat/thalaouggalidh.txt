@@ -6,3 +6,5 @@
 voiture
 seaux
 glace
+
+fatiha
